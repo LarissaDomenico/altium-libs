@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Kemet";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"146923";"";
+"REVISION";"A";"";
+"DESIGN";"0402 C0G ceramic capacitor, 50V 150pF";"";
+"TraceParts.InstanceId";"10-07092016-110784C3Y5H5SWX106A5URMH7V067JK";"";
+"TraceParts.PartTitle";"0402 C0G ceramic capacitor, 50V 150pF";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-07092016-110784";"";
+"REFERENCE";"C0402C151J5GACTU";"";
+"TIMESTAMP";"01/08/2016 14:34";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"";"";
